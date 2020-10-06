@@ -1,0 +1,16 @@
+.table {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.FeatureTable {
+  text-align: left;
+}
+.featureStatusDataEnabled {
+  background-color: green;
+  color: whitesmoke;
+}
+.featureStatusDataDisabled {
+  background-color: darkkhaki;
+  color: whitesmoke;
+}
