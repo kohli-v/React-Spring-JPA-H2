@@ -10,9 +10,9 @@ Backend runs on port 8080
 Front end runs on port 3000
 
 Tech : 
-Spring Web
-JPA
-H2
-React
+- Spring Web
+- JPA
+- H2
+- React
 
 Gif : https://gifyu.com/image/6i0Z
