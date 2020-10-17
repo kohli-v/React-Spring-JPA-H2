@@ -15,4 +15,5 @@ Tech :
 - H2
 - React
 
-Gif : https://gifyu.com/image/6i0Z
+Video demo :
+https://github.com/kohli-v/React-Spring-JPA-H2/blob/master/demo_movie.gif
